@@ -179,3 +179,4 @@ perplexity-youtube-api-sample/
 - [Vite 문서](https://vitejs.dev/)
 - [Netlify 문서](https://docs.netlify.com/)
 
+
